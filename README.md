@@ -1,1 +1,1 @@
-# AirMC-Store
+# airmc-store
